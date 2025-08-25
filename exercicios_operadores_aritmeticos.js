@@ -32,7 +32,6 @@ var n = 7;
 n++ 
 console.log(n)
 
-
 // 8. Crie uma variável `m = 9`. Aplique `m--` e mostre antes e depois no console.
 var m = 9;
 m--
