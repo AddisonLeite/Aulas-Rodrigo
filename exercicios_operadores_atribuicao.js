@@ -24,13 +24,14 @@ console.log(n %= 3)
 console.log (n **=2);
 
 // 7. Mostre que `n = n + 1` é equivalente a `n += 1`.
-
+console.log( n = n + 1);
+console.log(n += 1);
 
 // 8. Crie `a = 5` e `b = 2`. Atualize `a` usando `a *= b`. Exiba o resultado.
-
+console.log(a *= b);
 
 // 9. Crie uma variável `saldo = 1000`. Desconte 15% usando operador de atribuição.
-
+console.log(saldo %= 15);
 
 // 10. Peça para o aluno prever o resultado antes de rodar:
 // let x = 2;
